@@ -1,4 +1,4 @@
-Please view Lisence. This is the work of Ryan Amaral. 
+Please view	LICENSE. This is the work of Ryan Amaral. 
 # tpg-python
 A python implementation of Tangled Program Graphs.
 
